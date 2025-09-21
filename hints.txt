@@ -1,0 +1,11 @@
+1. This challenge requires a combination of open-source research skills and cryptanalysis. Consider alternative representations of message encoding and explore multiple information sources.
+
+2. For message decoding, think about classic substitution ciphers and encoding schemes commonly used in digital communications.
+
+3. Analyze URLs for hidden information or expansions, and pay attention to domain registration details to identify patterns or key persons involved.
+
+4. Review hexadecimal representations carefully—they often encode textual information in a compact form.
+
+5. Base64 remains a popular choice for encoding data to obscure it slightly; consider it when discovering data that looks unintelligible.
+
+6. A holistic approach tying clues together will be needed to uncover the hidden flag.

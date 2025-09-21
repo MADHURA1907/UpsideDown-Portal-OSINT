@@ -1,0 +1,9 @@
+1. Tweet shortened url: https://goo.gl/maps/X794Y6RP94v
+
+2. Domain: upside-down-hawkins.com
+
+3. Forum post (ROT13): Gur cbffvoyr obql vf ng gur Pnab Zvyy.
+
+4. Hex string: 72 65 76 65 61 6c 74 68 65 4b 65 79
+
+5. Base64 string: SFRCe1VTQklERU9XTl9IT0RMTU9HTkVTX0hBV0tJTlN9
